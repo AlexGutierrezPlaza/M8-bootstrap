@@ -1,0 +1,66 @@
+.purple{
+    background-color: grey;
+    height: 450px;
+}
+
+.hello{
+    height: 500px;
+}
+
+.celda1{
+    padding: 1.5rem;
+    border: 0.25rem solid black;
+}
+
+.celda2{
+    padding: 1.5rem;
+    border: 0.25rem solid black;
+}
+
+.col-6{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+font-size: 300%;
+background-image: linear-gradient(gray, white, white) 
+}
+
+.celda1{
+text-align: center;
+font-size: 130%;
+}
+
+.celda1 h1{
+color: black;
+}
+
+.celda1 p{
+font-style: oblique;
+color: black;
+}
+
+.celda2{
+text-align: center;
+}
+
+.celda2 h1{
+color: black;
+}
+
+.celda2 h2{
+color: black;
+}
+
+.celda2 img{
+width: 100%;
+height: 40%;
+}
+
+.celda2 p{
+font-size: 130%;
+color: black;
+}
+
+img{
+width: 100%;
+height: 70%;
+}
